@@ -47,19 +47,20 @@ It's a great exercice to understand relative and absolute positions.
 Was the first time using an hidden item, next time should try more complex animations.
 
 ```css
-.hidden{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 1rem;
-    background-color: hsla(215, 51%, 70%,.2) ;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    opacity: 0;
-
+.hidden {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+  background-color: hsla(215, 51%, 70%, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: all 0.3s ease-in 0s;
+}
 ```
 
 ## Author
