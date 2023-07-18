@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./design/final-desktop.png)
-![](./design/final-desktop-hover.png.png)
+![](./design/final-desktop-hover.png)
 ![](./design/final-mobile-view.png)
 
 ### Links
